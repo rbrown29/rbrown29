@@ -1,4 +1,37 @@
-### Hi there 👋
+<div align="center"> ⚡ Full Stack Dev
+
+</div><br />
+
+<div align="center">
+<img  src="https://user-images.githubusercontent.com/53094729/233466502-bc7a4834-7805-4333-9aa7-35ad54cee7b8.gif"/>
+</div><br />
+
+
+---
+
+
+<div align="center">
+:hammer_and_wrench: Languages and Tools : <br /><br />
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg"width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"width="40" height="40"/>&nbsp;
+</div><br />
+
+---
+
+<div align="center">
+:fire: My Stats : <br /><br />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=rbrown29&theme=dark&background=000000"/><br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbrown29&layout=compact&theme=vision-friendly-dark"/>
+</div><br />
 
 <!--
 **rbrown29/rbrown29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
