@@ -28,11 +28,6 @@
 
 ---
 
-<div align="center">
-:fire: My Stats : <br /><br />
-<img src="http://github-readme-streak-stats.herokuapp.com?user=rbrown29&theme=dark&background=000000"/><br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbrown29&layout=compact&theme=vision-friendly-dark"/>
-</div><br />
 
 <!--
 **rbrown29/rbrown29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
